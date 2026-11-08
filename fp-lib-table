@@ -1,0 +1,6 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "light reaction game") (type "KiCad") (uri "C:/Users/Tika Kerckenaere/OneDrive/Hacker club/shadow orchestra/shadow orchestra pcb/light reaction game") (options "") (descr ""))
+	(lib (name "New_XIAO_Series_Footprints (1)") (type "KiCad") (uri "C:/Users/Tika Kerckenaere/OneDrive/Hacker club/light reaction game/New_XIAO_Series_Footprints (1)") (options "") (descr ""))
+	(lib (name "New_XIAO_Series_Footprints") (type "KiCad") (uri "C:/Users/Tika Kerckenaere/OneDrive/Hacker club/light reaction game/New_XIAO_Series_Footprints (1)/New_XIAO_Series_Footprints") (options "") (descr ""))
+)
